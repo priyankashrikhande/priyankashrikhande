@@ -1,7 +1,7 @@
-[![MasterHead] (https://stock.adobe.com/images/business-lifestyle-concept-with-an-emphasis-on-advanced-analytics/711266053)
+[![MasterHead] ![1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj](https://github.com/user-attachments/assets/f809ad6d-da7b-4bb8-923a-a5648afc0311)
 <h1 align="center">Hi 👋, I'm Priyanka Shrikhande</h1>
 <h3 align="center">Certified Data Analyst</h3>
-<img align="right" alt="Coding" width="400" src= "https://www.freepik.com/free-vector/gradient-data-driven-concept-illustration_29765895.htm#fromView=keyword&page=1&position=1&uuid=2293fbe1-9361-4c61-9bf6-c0d1eb99c2f5&query=Female+data+analysts">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b605c745-2fdd-4f69-88a1-759e50a315db" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankashrikhnade&label=Profile%20views&color=0e75b6&style=flat" alt="priyankashrikhnade" /> </p>
 
@@ -29,8 +29,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankashrikhnade&show_icons=true&locale=en&layout=compact" alt="priyankashrikhnade" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyankashrikhande&show_icons=true&locale=en&layout=compact" alt="priyankashrikhnade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankashrikhnade&show_icons=true&locale=en" alt="priyankashrikhnade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankashrikhnade&" alt="priyankashrikhnade" /></p>
