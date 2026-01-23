@@ -1,4 +1,3 @@
-![1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj](https://github.com/user-attachments/assets/f809ad6d-da7b-4bb8-923a-a5648afc0311)
 <h1 align="center">Hi 👋, I'm Priyanka Shrikhande</h1>
 <h3 align="center">Certified Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/b605c745-2fdd-4f69-88a1-759e50a315db" />
